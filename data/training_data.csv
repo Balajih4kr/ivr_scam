@@ -1,0 +1,5 @@
+text,label
+"Your account has been compromised, press 1",scam
+"Welcome to your bank, please enter your PIN",not_scam
+"This is the IRS. You owe back taxes.",scam
+"Thank you for calling your pharmacy",not_scam
